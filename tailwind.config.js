@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
         colors: {
-            brandBlack: '#323232ff',
-            brandGreen: '#004d40',
-            brandLightGreen: '#00796b',
-            brandGray: '#1f2937',
+            brandBlack: '#343333ff',
+            brandGreen: '#07582eff',
+            brandLightGreen: '#12c849ff',
+            brandGray: '#5e756fff',
         }
     },
   },
